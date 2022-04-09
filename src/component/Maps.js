@@ -14,14 +14,14 @@ export default function Maps() {
 
   const locations = [
     {
-      name: "Location 1",
+      name: "เขตบางรัก",
       location: { 
         lat: 13.7337,
         lng:  100.5268
       },
     },
     {
-      name: "Location 2",
+      name: "เขตบางกอกใหญ่",
       location: { 
         lat: 13.74162,
         lng:  100.47640
