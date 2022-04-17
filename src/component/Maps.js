@@ -31,7 +31,7 @@ export default function Maps() {
 
   return (
     <LoadScript
-      googleMapsApiKey='AIzaSyAj0wbyyUR8g3Kg_whJgEPUD05hRq2qnW4'>
+      googleMapsApiKey='your api key'>
       <GoogleMap
         mapContainerStyle={mapStyles}
         zoom={13}
